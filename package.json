@@ -14,7 +14,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/dom-mediacapture-record": "^1.0.7",
-    "autoprefixer": "^10.2.4",
+    "autoprefixer": "^10.2.5",
     "eslint": "^7.15.0",
     "node-env-run": "^4.0.2",
     "node-sass": "^4.13.1",
